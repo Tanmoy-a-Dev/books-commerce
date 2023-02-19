@@ -1,0 +1,10 @@
+{
+  "name": "mini-book-app",
+  "version": "1.0.0",
+  "description": "This is a small book buying-selling website made with Next.js, Express.js and Sequelize.js(mysql).This app has cookie based user authentication system and session system as well. A beinner project.",
+  "main": "server.js",
+  "repository": "https://github.com/Tanmoy-a-Dev/books-commerce",
+  "author": "Tanmoy Sen",
+  "license": "MIT",
+  "private": false
+}
