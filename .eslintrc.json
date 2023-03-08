@@ -30,6 +30,7 @@
     "jsx-a11y/anchor-is-valid": "off",
     "endOfLine": "off",
     "semi": ["off", "never"],
+    "no-unused-vars": "warn",
     "prettier/prettier": "error"
   },
   "settings": {

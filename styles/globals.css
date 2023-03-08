@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header:first-child {
+  padding-left: 4rem;
+}
+.logo {
+  /* padding: 20px 0 20px 0; */
+  height: 80px;
+  width: 70px;
+}
+#authDivision {
+  padding-right: 4rem;
+}
+.genre_subMenu a:nth-last-child(2) {
+  margin-right: 35%;
+}
+/* .test {
+  color: #a76e04;
+} */
+
+@layer base {
+  body {
+    @apply bg-body_Color text-darker_Color font-secondary;
+  }
+}
